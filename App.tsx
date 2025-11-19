@@ -61,7 +61,7 @@ const App: React.FC = () => {
     <div className="min-h-screen bg-gradient-to-br from-indigo-800 to-purple-900 text-white flex flex-col items-center justify-center p-4 font-sans overflow-hidden">
       <div className="text-center mb-8 animate-fade-in-down">
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight mb-2 text-yellow-300" style={{ textShadow: '0 0 15px rgba(253, 224, 71, 0.7)' }}>
-          LUCKY SPIN
+          GUCCI LUCKY SPIN
         </h1>
         <p className="text-lg md:text-xl text-indigo-200">Putar roda dan menangkan hadiahnya!</p>
       </div>
