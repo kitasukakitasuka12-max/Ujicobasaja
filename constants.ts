@@ -1,16 +1,13 @@
 
 export const PRIZES = [
-  'Rp 10.000',
-  'Rp 20.000',
-  'Rp 50.000',
-  'Rp 75.000',
-  'Rp 100.000',
-  'Rp 150.000',
-  'Rp 200.000',
+  'Rp10.000',
+  'Rp20.000',
+  'Rp50.000',
+  'Rp75.000',
+  'Rp100.000',
+  'Rp150.000',
+  'Rp200.000',
 ];
-
-// IMPORTANT: Replace with the actual admin WhatsApp number
-export const WHATSAPP_ADMIN_NUMBER = '6281325620735'; 
 
 export const COLORS = [
   '#ef4444', // red-500
@@ -21,3 +18,5 @@ export const COLORS = [
   '#3b82f6', // blue-500
   '#8b5cf6', // violet-500
 ];
+// IMPORTANT: Replace with the actual admin WhatsApp number
+export const WHATSAPP_ADMIN_NUMBER = '6281325620735';
