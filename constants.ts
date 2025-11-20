@@ -1,4 +1,3 @@
-
 export const PRIZES = [
   'Rp10.000',
   'Rp20.000',
@@ -19,4 +18,4 @@ export const COLORS = [
   '#8b5cf6', // violet-500
 ];
 // IMPORTANT: Replace with the actual admin WhatsApp number
-export const WHATSAPP_ADMIN_NUMBER = '6281325620735';
+export const WHATSAPP_ADMIN_NUMBER = '6281234567890';
